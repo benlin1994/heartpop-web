@@ -1,0 +1,57 @@
+[
+    {
+      "question": "Who is the most likely celebrity to win the Oscar for Best Actor in 2024?",
+      "choices": [
+        "Austin Butler",
+        "Brendan Fraser",
+        "Colin Farrell",
+        "Paul Mescal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What celebrity couple is most likely to break up in 2024?",
+      "choices":
+        [
+          "Kim Kardashian and Pete Davidson",
+          "Kylie Jenner and Travis Scott",
+          "Megan Fox and Machine Gun Kelly",
+          "Nick Jonas and Priyanka Chopra"
+        ],
+      "answer": 0
+    },
+    {
+      "question": "What celebrity is most likely to have a baby in 2024?",
+      "choices":
+        [
+          "Gigi Hadid",
+          "Hailey Bieber",
+          "Rihanna",
+          "Selena Gomez"
+        ],
+      "answer": 0
+    },
+    {
+      "question": "What celebrity is most likely to start a new business in 2024?",
+      "choices":
+        [
+          "Beyoncé",
+          "Cristiano Ronaldo",
+          "Kanye West",
+          "Kim Kardashian"
+        ],
+      "answer": 0
+    },
+    {
+      "question": "What celebrity is most likely to run for political office in 2024?",
+      "choices":
+        [
+          "Caitlyn Jenner",
+          "Dwayne Johnson",
+          "Oprah Winfrey",
+          "Will Smith"
+        ],
+      "answer": 0
+    }
+  ]
+  
