@@ -33,10 +33,10 @@ export default function Home() {
  
 
   return (
-    <div className='bg-yellow-300'>
+    <div>
       <Meter points={calcPoints(feedSelection)}/>
       <div className='mt-20'>
-        <Feed items={items} setFeed={setFeed} feedSelection={feedSelection}/>
+        Shop
       </div>
       
       <NavBar />

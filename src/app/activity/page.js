@@ -36,7 +36,7 @@ export default function Home() {
     <div className='bg-yellow-300'>
       <Meter points={calcPoints(feedSelection)}/>
       <div className='mt-20'>
-        <Feed items={items} setFeed={setFeed} feedSelection={feedSelection}/>
+        Activity
       </div>
       
       <NavBar />
