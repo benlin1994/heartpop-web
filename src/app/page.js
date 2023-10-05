@@ -1,10 +1,10 @@
 "use client"
 
-import NavBar from './NavBar'
-import Meter from './Meter'
-import Feed from './Feed'
+import NavBar from '../components/NavBar'
+import Meter from '../components/Meter'
+import Feed from '../components/Feed'
 import items from '../items.json'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 export default function Home() {
   let [points, setPoints] = useState(0)

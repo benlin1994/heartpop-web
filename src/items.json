@@ -52,6 +52,107 @@
           "Will Smith"
         ],
       "answer": 0
+    },
+    {
+      "question": "How long will it take Taylor Swift to release a new album?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long will it take Kim Kardashian to get married again?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long will it take Beyoncé to start a new world tour?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How long will it take Kanye West to run for president?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How long will it take Tom Brady to retire from the NFL?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long will it take Lionel Messi to retire from professional soccer?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long will it take LeBron James to retire from the NBA?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How long will it take Rihanna to have a baby?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How long will it take Selena Gomez to win an Oscar?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long will it take Harry Styles to start his own fashion line?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "1 year",
+        "5 years"
+      ],
+      "answer": 1
     }
   ]
+    
   
