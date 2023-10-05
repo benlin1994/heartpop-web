@@ -11,7 +11,7 @@ export default function NavBar() {
     let path = usePathname()
 
     return (
-        <div className="fixed bottom-0 left-0 right-0 h-64">
+        <div className="fixed bottom-0 left-0 right-0">
             <div className="flex border bg-blue-400 text-center justify-around content-center p-4 gap-8">
                 <Link href="/" className="w-8 m-auto fill-white">
                     <div className="flex justify-center">
