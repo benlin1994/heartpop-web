@@ -1,8 +1,8 @@
-import ProfileIcon from "../icons/ProfileIcon"
-import ShopIcon from "../icons/ShopIcon"
-import RewardsIcon from "../icons/RewardsIcon"
-import ActivityIcon from "../icons/ActivityIcon"
-import PlayIcon from "../icons/PlayIcon"
+import ProfileIcon from "./icons/ProfileIcon"
+import ShopIcon from "./icons/ShopIcon"
+import RewardsIcon from "./icons/RewardsIcon"
+import ActivityIcon from "./icons/ActivityIcon"
+import PlayIcon from "./icons/PlayIcon"
 import { usePathname } from 'next/navigation'
 import Link from "next/link"
 
