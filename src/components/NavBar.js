@@ -9,7 +9,7 @@ export default function NavBar() {
     return (
         <div className="fixed bottom-0 left-0 right-0">
             <div className="flex border bg-blue-400 justify-around content-center p-4 gap-8">
-            <   div className="">
+            <   div className="w-8 m-auto">
                     <div className="flex justify-center">
                         <PlayIcon/>
                     </div>
@@ -17,7 +17,7 @@ export default function NavBar() {
                         Play
                     </label>
                 </div>
-                <div className="">
+                <div className="w-8 m-auto">
                     <div className="flex justify-center">
                         <ActivityIcon/>
                     </div>
@@ -25,7 +25,7 @@ export default function NavBar() {
                         Activity
                     </label>
                 </div>
-                <div className="">
+                <div className="w-8 m-auto">
                     <div className="flex justify-center">
                         <ProfileIcon/>
                     </div>
@@ -33,7 +33,7 @@ export default function NavBar() {
                         Profile
                     </label>
                 </div>
-                <div className="">
+                <div className="w-8 m-auto">
                     <div className="flex justify-center">
                         <RewardsIcon/>
                     </div>
@@ -41,7 +41,7 @@ export default function NavBar() {
                         Rewards
                     </label>
                 </div>
-                <div className="">
+                <div className="w-8 m-auto">
                     <div className="flex justify-center">
                         <ShopIcon/>
                     </div>
