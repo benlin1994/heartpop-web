@@ -2,7 +2,7 @@ import FeedItem from "./FeedItem"
 
 export default function Feed({setFeed,items,feedSelection}){
     return (
-        <div>
+        <div className="mb-20">
             {
                 items.map((item, index) => {
                     return (
